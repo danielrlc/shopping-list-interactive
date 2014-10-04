@@ -1,0 +1,64 @@
+/* {
+  outline: 1px solid red;
+}
+*/
+
+body {
+  width: 300px;
+  margin: 0 auto;
+  font-family: Tahoma, sans-serif;
+  color: #555;
+}
+
+h1 {
+  font-size: 21px;
+  margin: 20px 0px 30px;
+  padding: 5px;
+  border-bottom: 2px solid #aaa;
+}
+
+.show-hide {
+  /*margin-left: 153px;*/
+  background-color: #ccc;
+  padding: 8px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.list li, .show-hide, span {
+  cursor: pointer;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.list li, .add-item {
+  margin: 10px 3px;
+  padding: 8px 15px 10px;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  background-color: #fff;
+  font-size: 17px;
+  width: 263px;
+}
+
+.crossed-out {
+  text-decoration: line-through;
+}
+
+.placeholder {
+  color: gray;
+}
+
+.instructions {
+  margin-top: 50px;
+}
+
+.instructions-hide {
+  display: none;
+}
+
+.instructions-show {
+  display: block;
+}
