@@ -7,19 +7,20 @@ body {
   width: 300px;
   margin: 0 auto;
   font-family: Tahoma, sans-serif;
-  color: #555;
+  color: #5d4b49;
+  background-color: #ecebd9;
 }
 
 h1 {
   font-size: 21px;
   margin: 20px 0px 30px;
   padding: 5px;
-  border-bottom: 2px solid #aaa;
+  border-bottom: 2px solid #b6b2a3;
 }
 
 .show-hide {
   /*margin-left: 153px;*/
-  background-color: #ccc;
+  background-color: #b6b2a3;
   padding: 8px;
   border-radius: 10px;
   text-align: center;
@@ -36,7 +37,7 @@ p {
 .list li, .add-item {
   margin: 10px 3px;
   padding: 8px 15px 10px;
-  border: 1px solid #bbb;
+  border: 1px solid #b6b2a3;
   border-radius: 10px;
   background-color: #fff;
   font-size: 17px;
